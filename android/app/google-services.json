@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762728660434",
+    "firebase_url": "https://reactnativefirstproject-e74c1-default-rtdb.firebaseio.com",
+    "project_id": "reactnativefirstproject-e74c1",
+    "storage_bucket": "reactnativefirstproject-e74c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762728660434:android:9a9b9f79c47ef7d68c5c0b",
+        "android_client_info": {
+          "package_name": "com.hotelmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762728660434-aupenravae7hlq2e9a3qpig0evukqbs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLKg_5bvdT2ujJDTgg1b9StaehKGfzXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762728660434-aupenravae7hlq2e9a3qpig0evukqbs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
